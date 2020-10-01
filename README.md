@@ -37,22 +37,22 @@ Besides programming, I enjoy eating food and drawing.
 <!-- #### 🔭 I’m currently working on:
 - HeistSquad (A Game with Flutter [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg)](https://flame-engine.org)) -->
 
-#### 👨🏽‍💻 I'm currently working on something cool, stay tuned :wink:;
+#### 👨🏽‍💻 I'm currently working on something cool, stay tuned :wink:
 #### 🌱 I’m currently learning: 
 - Dart, Flutter 💙
 - GetX State Management
 - Data Structure.
 - Algorithms.
-#### ⚡ Passionate about new mobile technologies;
-#### 💬 Ask me about anything, I am happy to help;
+#### ⚡ Passionate about new mobile technologies.
+#### 💬 Ask me about anything, I am happy to help 💛
 #### 🧰 Languages and Tools:
 <p align="left">
   <code><img height="32" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"></code>
   <code><img height="32" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"></code>
   <code><img height="32" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android"></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="mysql"></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png" alt="git"></code>
 </p>
 
 #### 📫 How to reach me:
@@ -72,10 +72,4 @@ Besides programming, I enjoy eating food and drawing.
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=salah-rashad&show_icons=true&theme=gotham" alt="salah-rashad" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-rashad&layout=compact&show_icons=true&theme=gotham" alt="salah-rashad" /></p>
-
-
-
-
-
-
 
