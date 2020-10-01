@@ -54,13 +54,28 @@ Besides programming, I enjoy eating food and drawing.
 </p>
 
 #### 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:salah.r.ahmed@gmail.com)](mailto:salah.r.ahmed@gmail.com)
-[![Stack Overflow Badge](https://img.shields.io/badge/-StackOverflow-ef8236?style=for-the-badge&labelColor=ef8236&logo=stackoverflow&logoColor=white&link=https://www.linkedin.com/in/salah-rashad/)](https://www.linkedin.com/in/salah-rashad/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&labelColor=2867B2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salah-rashad/)](https://www.linkedin.com/in/salah-rashad/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SalahRAhmed)](https://twitter.com/SalahRAhmed)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/salah.r.ahmed/)](https://www.instagram.com/salah.r.ahmed/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/Sala7_Ra4ad)](https://t.me/Sala7_Ra4ad)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/Sala7.Ra4ad)](https://www.facebook.com/Sala7.Ra4ad)
+<a href="mailto:salah.r.ahmed@gmail.com" target="_blank">
+  <img alt="Salah Rashad | Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/9768854/salah-rashad" target="_blank">
+  <img alt="Salah Rashad | StackOverflow" src="https://img.shields.io/badge/-StackOverflow-ef8236?style=for-the-badge&labelColor=ef8236&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/salah-rashad/" target="_blank">
+  <img alt="Salah Rashad | LinkedIN" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&labelColor=2867B2&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/SalahRAhmed" target="_blank">
+  <img alt="Salah Rashad | Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/salah.r.ahmed/" target="_blank">
+  <img alt="Salah Rashad | Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white" />
+</a>
+<a href="https://t.me/Sala7_Ra4ad" target="_blank">
+  <img alt="Salah Rashad | Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&labelColor=0088cc&logo=telegram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/Sala7.Ra4ad" target="_blank">
+  <img alt="Salah Rashad | Facebook" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&labelColor=4267B2&logo=facebook&logoColor=white" />
+</a>
+
 <!-- 
 - [LinkedIn](https://www.linkedin.com/in/salah-rashad/)
 - [Stack Overflow](https://stackoverflow.com/users/9768854/salah-rashad)
