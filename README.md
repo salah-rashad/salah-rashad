@@ -1,5 +1,3 @@
-
-
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=salah-rashad" alt="salah-rashad" />
 
 <!--
@@ -70,6 +68,8 @@ Besides programming, I enjoy eating food and drawing.
 - [Facebook](https://www.facebook.com/Sala7.Ra4ad)
 -->
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=salah-rashad&show_icons=true&theme=gotham" alt="salah-rashad" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-rashad&layout=compact&show_icons=true&theme=gotham" alt="salah-rashad" /></p>
+<p> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=salah-rashad&show_icons=true&theme=gotham" alt="salah-rashad" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-rashad&layout=compact&show_icons=true&theme=gotham" alt="salah-rashad" />
+</p>
 
