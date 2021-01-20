@@ -47,7 +47,7 @@ Besides programming, I enjoy eating food and drawing.
 <p align="left">
   <code><img height="32" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"></code>
   <code><img height="32" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"></code>
-  <code><img height="32" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android"></code>
+  <code><img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" alt="android"></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
   <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="mysql"></code>
   <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png" alt="git"></code>
