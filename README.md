@@ -27,7 +27,7 @@
 
 I'm Salah Rashad, a `Flutter Developer 👨🏻‍💻` from Egypt(Giza).
 <br />
-I was the Vice Head of Mobile Developers Committiee at 
+I'm a former Vice Head of Mobile Developers Committiee at 
 <a href="https://dsc.community.dev/al-azhar-university/" target="_blank"><img src="https://dscinberlin.de/img/logo_color.png" width="22px"/> DSC Al-Azhar University</a>.
 <br />
 Besides programming, I enjoy eating food and drawing.
