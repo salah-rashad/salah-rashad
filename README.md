@@ -71,10 +71,10 @@ Besides programming, I enjoy eating food and drawing.
 
 <div style="display: inline-block; width: 100%" align="center">
     <div style="display: inline-block; width: 49%;">
-    	<img src="https://github-readme-stats.vercel.app/api?username=salah-rashad&show_icons=true&theme=onedark&hide_border=true" style="width:100%" alt="salah-rashad" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-rashad&layout=compact&show_icons=true&theme=onedark&hide_border=true" style="width:100%" alt="salah-rashad" />
+    	<img src="https://github-readme-stats.vercel.app/api?username=salah-rashad&show_icons=true&theme=radical&hide_border=true" style="width:100%" alt="salah-rashad" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-rashad&layout=compact&show_icons=true&theme=radical&hide_border=true" style="width:100%" alt="salah-rashad" />
     </div>
     <div style="display: inline-block; width: 49%; vertical-align: top;">
-      <img src="https://github-profile-trophy.vercel.app/?username=salah-rashad&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=3" style="width: 100%" />
+      <img src="https://github-profile-trophy.vercel.app/?username=salah-rashad&theme=radical&no-frame=true&margin-w=5&margin-h=5&column=4" style="width: 100%" />
     </div>
 </div>
