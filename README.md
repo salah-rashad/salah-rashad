@@ -14,7 +14,7 @@ Ask me about anything, I am happy to help 💛
 
 ##### ⚡ I’m currently learning:
 
-- GetX State Management
+- Provider State Management
 - Flame Engine 🔥
 - Unity3D
 
