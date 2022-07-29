@@ -3,7 +3,7 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px">
 
 <p align="left">
-I'm Salah Rashad, a <code>Flutter Developer 👨🏻‍💻</code> from Egypt(Giza).<br>
+I'm Salah Rashad, a <code>Software Engineer 👨🏻‍💻</code> from Egypt(Giza).<br>
 I'm a former Vice Head of Mobile Developers Committiee at
 <a href="https://dsc.community.dev/al-azhar-university/" target="_blank"><img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" width="22px"/> DSC Al-Azhar University</a>.
 
