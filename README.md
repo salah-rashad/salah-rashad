@@ -30,7 +30,7 @@ Ask me about anything, I am happy to help 💛
 
 <p align="left">
   🦄 <strong>Skills:</strong> Dart, Flutter, Java, C#.<br/>
-  🧰 <strong>Tools:</strong> Firebase, MySQL, Git.
+  🧰 <strong>Tools:</strong> Firebase, SQLite, Git.
 </p>
 
 ##### 📫 How to reach me:
