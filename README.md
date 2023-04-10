@@ -8,13 +8,13 @@ I'm a former Vice Head of Mobile Developers Committiee at
 <a href="https://dsc.community.dev/al-azhar-university/" target="_blank"><img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" width="22px"/> DSC Al-Azhar University</a>.
 
 Besides programming, I enjoy playing video games and drawing.
-I'm passionate about new mobile technologies
+I'm passionate about new mobile technologies & AI.
 
 Ask me about anything, I am happy to help 💛
 
 ##### ⚡ I’m currently learning:
 
-- Provider State Management
+- BLoC State Management
 - Flame Engine 🔥
 - Unity3D
 
@@ -29,7 +29,7 @@ Ask me about anything, I am happy to help 💛
 <br>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Dart, Flutter, Java, C#.<br/>
+  🦄 <strong>Skills:</strong> Dart, Flutter, Java, C#, Python (Django)<br/>
   🧰 <strong>Tools:</strong> Firebase, SQLite, Git.
 </p>
 
