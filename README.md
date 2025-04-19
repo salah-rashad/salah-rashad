@@ -4,7 +4,7 @@
 __Hi__ <img src="assets/hello.gif" width="24px" height="24px">
 
 <p align="left">
-I'm Salah Rashad, a <code>Software Engineer 👨🏻‍💻</code> from Egypt(Giza).<br>
+I'm Salah Rashad, a <code>Software Developer 👨🏻‍💻</code> from Egypt(Giza).<br>
 
 Former Vice Head of Mobile Developers Committee at
 <a href="https://dsc.community.dev/al-azhar-university/" target="_blank"><img src="assets/google-developers-logo.png" width="22px"/> DSC Al-Azhar University</a>.
@@ -18,6 +18,7 @@ Ask me about anything, I am happy to help 💛
 
 ##### 🚀 I’m currently working on:
 
+- assist `package` [↗️](https://pub.dev/packages/assist)
 - Blueprint System `package` [↗️](https://pub.dev/packages/blueprint_system)
 - Flutter Context Menu `package` [↗️](https://pub.dev/packages/flutter_context_menu)
 
