@@ -7,7 +7,7 @@ __Hi__ <img src="assets/hello.gif" width="24px" height="24px">
 I'm Salah Rashad, a <code>Software Developer 👨🏻‍💻</code> from Egypt(Giza).<br>
 
 Former Vice Head of Mobile Developers Committee at
-<a href="https://dsc.community.dev/al-azhar-university/" target="_blank"><img src="assets/google-developers-logo.png" width="22px"/> DSC Al-Azhar University</a>.
+<a href="https://gdg.community.dev/gdg-on-campus-al-azhar-university-cairo-egypt/" target="_blank"><img src="assets/google-developers-logo.png" width="22px"/> DSC Al-Azhar University</a>.
 
 Member of <a href="https://github.com/Jelly-Fishers" target="_blank">@Jelly-Fishers</a> 🪼 team.
 
