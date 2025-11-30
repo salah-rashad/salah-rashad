@@ -18,19 +18,26 @@ Ask me about anything, I am happy to help 💛
 
 ##### 🚀 I’m currently working on:
 
-- assist `package` [↗️](https://pub.dev/packages/assist)
+- Assist `package` [↗️](https://pub.dev/packages/assist)
 - Blueprint System `package` [↗️](https://pub.dev/packages/blueprint_system)
 - Flutter Context Menu `package` [↗️](https://pub.dev/packages/flutter_context_menu)
 
 </p>
 
-<div>
+<a href="https://github.com/salah-rashad">
+
+![](https://raw.githubusercontent.com/salah-rashad/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/salah-rashad/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<!-- <div>
   <a href="https://github.com/salah-rashad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salah-rashad&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-rashad&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
   </a>
 </div>
-<br>
+<br> -->
 
 <!-- <p align="left">
   🦄 <strong>Skills:</strong> Dart, Flutter, Java, C#, Python (Django)<br/>
